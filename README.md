@@ -3,7 +3,7 @@
 ## Editando o perfil
 
 - 👋 Olá, eu sou o @ArthuRuizSona9!
-- :+1: Meu email de contato é arthur392br@gmail.com
+- :+1: Meu email de contato é [email](arthur392br@gmail.com)
 - 👀 Eu estou interessado em aprender novas linguagens computacionais!
 - 🌱 Eu estou aprendendo a mexer em programas recentemente, uma delas é o JavaScript e Scratch.
 
